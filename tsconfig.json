@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "sourceMap": false,
+    "declaration": false,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "module": "commonjs",
+    "noLib": false,
+    "jsx": "react"
+  },
+  "filesGlob": [
+    "./app/*.ts",
+    "./app/**/*.ts",
+    "!./node_modules/**/*.ts",
+    "!./bower_components/"
+  ],
+  "files": [
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "CesiumTest",
+  "version": "0.0.0",
+  "authors": [
+    "Alexander Pirsig <self@pirsig.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cesium": "http://cesiumjs.org/releases/Cesium-1.13.zip"
+  }
+}
